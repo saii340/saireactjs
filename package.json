@@ -1,0 +1,33 @@
+{
+  "name": "dota2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@carbon/icons-react": "^11.8.0",
+    "@types/node": "20.1.5",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "axios": "^1.4.0",
+    "baseui": "^12.2.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "framer-motion": "^7.5.4",
+    "immer": "^10.0.2",
+    "jotai": "^2.2.2",
+    "jotai-immer": "^0.2.0",
+    "next": "13.4.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styletron-engine-atomic": "^1.5.0",
+    "styletron-react": "^6.1.0",
+    "typescript": "5.0.4",
+    "use-immer": "^0.9.0",
+    "wretch": "^2.3.0"
+  }
+}
